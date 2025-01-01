@@ -10,13 +10,6 @@ The **WhatsApp Chat Analyzer** is an interactive and user-friendly tool designed
 ---
 
 ## 🔍 Key Features
-- **📊 Detailed Statistics**: Gain insights into total messages, media shared, links sent, and more.
-- **🧩 Participant Analysis**: Identify the most active members in group chats.
-- **🌐 Word Cloud**: Visualize your most frequently used words.
-- **😂 Emoji Trends**: Discover your most-used emojis at a glance.
-- **⏳ Time-Based Trends**: Analyze message activity by hours, days, and weeks.
-- **📈 Interactive Visualizations**: Get stunning, easy-to-read charts and graphs.
-- **📢 Feedback Collection**: Includes a feedback feature to enhance future updates.
 - **User Authentication**
     - Signup: Users can securely create accounts with password hashing (SHA-256).
     - Login: Users can log in to access chat analytics after successful password verification.
@@ -25,52 +18,33 @@ The **WhatsApp Chat Analyzer** is an interactive and user-friendly tool designed
     - Statistics: Displays total messages, words, media shared, and links sent.
 
 - **Visualizations**:
+    - **📅 Monthly & Daily Timelines**: View message activity on both daily and monthly timelines.
+    - **📈 Weekly Activity Heatmap**: Analyze user activity patterns across the week.
+    - **📊 Activity Breakdown**: Get detailed activity breakdowns by day and month.
+    - **👥 Busiest Users**: Identify the most active participants in the group chat.
+    - **🔠 Word Cloud**: Generate a visual representation of the most frequently used words.
+    - **😂 Emoji Analysis**: Discover the most commonly used emojis.
+    - 
+- **Sentiment Analysis**:
 
-📅 Monthly & Daily Timelines: View message activity on both daily and monthly timelines.
-📈 Weekly Activity Heatmap: Analyze user activity patterns across the week.
-📊 Activity Breakdown: Get detailed activity breakdowns by day and month.
-👥 Busiest Users: Identify the most active participants in the group chat.
-🔠 Word Cloud: Generate a visual representation of the most frequently used words.
-😂 Emoji Analysis: Discover the most commonly used emojis.
-Sentiment Analysis:
-
-📊 Sentiment Distribution: Visualize sentiment across different messages.
-⏳ Sentiment Over Time: Track sentiment changes over the duration of the chat.
-🔍 Top Positive and Negative Messages: Identify the most positive and negative messages.
-3. Report Generation
-Excel Report: Download chat analysis in .xlsx format for further review.
-PDF Report: Download chat analysis in .pdf format for documentation and sharing.
-4. Social Media Integration
-🌐 Professional Links:
-GitHub - Access the project's repository.
-LinkedIn - Connect on LinkedIn.
-Email: Reach out for queries or support.
-5. User Experience
-Styled Interface: The app features a clean, user-friendly interface built with HTML and CSS.
-Error Handling: User-friendly error messages ensure smooth interaction.
-6. 📊 Detailed Statistics
-Gain insights into:
-
-Total messages
-Words sent
-Media shared
-Links sent
-7. 🧩 Participant Analysis
-Identify the most active participants in group chats.
-
-8. 🌐 Word Cloud
-Visualize the most frequently used words in the chat.
-
-9. 😂 Emoji Trends
-Discover and analyze the emojis most frequently used by participants.
-
-10. ⏳ Time-Based Trends
-Analyze message activity across different hours of the day, days of the week, and months.
-
-11. 📈 Interactive Visualizations
-Stunning charts and graphs to represent chat activity and trends clearly.
-12. 📢 Feedback Collection
-Users can provide feedback and suggestions for future updates.
+    - **📊 Sentiment Distribution**: Visualize sentiment across different messages.
+    - **⏳ Sentiment Over Time**: Track sentiment changes over the duration of the chat.
+    - **🔍 Top Positive and Negative Messages**: Identify the most positive and negative messages.
+- **Report Generation**
+    - **Excel Report**: Download chat analysis in .xlsx format for further review.
+    - **PDF Report**: Download chat analysis in .pdf format for documentation and sharing.
+- **Social Media Integration**
+    - **🌐 Professional Links**:
+    - **GitHub** - Access the project's repository.
+    - **LinkedIn** - Connect on LinkedIn.
+    - **Email**: Reach out for queries or support.
+- **📊 Detailed Statistics**: Gain insights into total messages, media shared, links sent, and more.
+- **🧩 Participant Analysis**: Identify the most active members in group chats.
+- **🌐 Word Cloud**: Visualize your most frequently used words.
+- **😂 Emoji Trends**: Discover your most-used emojis at a glance.
+- **⏳ Time-Based Trends**: Analyze message activity by hours, days, and weeks.
+- **📈 Interactive Visualizations**: Get stunning, easy-to-read charts and graphs.
+- **📢 Feedback Collection**: Includes a feedback feature to enhance future updates.
 - 
 
 ---
