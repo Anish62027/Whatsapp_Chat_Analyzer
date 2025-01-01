@@ -116,6 +116,14 @@ pip install -r requirements.txt
 ## 🖼 Screenshots
 ### 🎨 Dashboard Example
 *Include screenshots of the app interface, charts, or results.*
+- **Login / Signup**
+<img width="944" alt="image" src="https://github.com/user-attachments/assets/964b953a-fda3-4c9d-82ef-d40d3b428dc9" />
+- **ChatFlow Analyzer**
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/800ac0cf-3d54-46d5-94ab-1ab86f2a8d78" />
+- **Review Flow**
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/95c29480-6a6b-40f6-a03b-ca31b15a7675" />
+
+
 
 ---
 
