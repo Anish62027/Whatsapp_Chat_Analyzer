@@ -1,0 +1,14 @@
+streamlit
+matplotlib
+seaborn
+urlextract
+wordcloud
+pandas
+emoji
+vaderSentiment
+collections
+nltk
+re
+plotly
+reportlab
+io
