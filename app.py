@@ -261,7 +261,14 @@ if options == "ChatFlow Analyzer":
                     with col1:
                         st.dataframe(emoji_df.head())
                     with col2:
-                        fig = px.pie(emoji_df.head(), values=1, names=0, title="Top Emojis", labels={"0": "Emoji", "1": "Count"})
+                        # Use column names for 'names' and 'values'
+                        fig = px.pie(
+                            emoji_df.head(),
+                            values="count",
+                            names="emoji",
+                            title="Top Emojis",
+                            labels={"emoji": "Emoji", "count": "Count"}
+                        )
                         st.plotly_chart(fig)
                 else:
                     st.warning("No emoji data available for the selected user.")
