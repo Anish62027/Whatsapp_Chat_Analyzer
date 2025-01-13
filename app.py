@@ -588,6 +588,22 @@ elif options == "Review Flow":
                     """,
                     unsafe_allow_html=True,
                 )
+
+        st.markdown(
+                            """
+                            <style>
+                            .footer {
+                                color: black;
+                                font-size: 16px;
+                                font-weight: bold; /* Makes the text bold */
+                                text-align: center; /* Centers the text */
+                                margin-top: 50px; /* Adds space above the footer */
+                            }
+                            </style>
+                            <div class="footer">❤️ By Anish Avasthi</div>
+                            """,
+                            unsafe_allow_html=True,
+                        )
     else:
         st.warning("You must log in to access this section.")
         st.stop()
@@ -605,6 +621,21 @@ else:
                             }
                             </style>
                             <div class="footer">Crafted with ❤️ for Your Chat Analytics Built Using Streamlit</div>
+                            """,
+                            unsafe_allow_html=True,
+                        )
+    st.markdown(
+                            """
+                            <style>
+                            .footer {
+                                color: black;
+                                font-size: 16px;
+                                font-weight: bold; /* Makes the text bold */
+                                text-align: center; /* Centers the text */
+                                margin-top: 50px; /* Adds space above the footer */
+                            }
+                            </style>
+                            <div class="footer">❤️ By Anish Avasthi</div>
                             """,
                             unsafe_allow_html=True,
                         )
